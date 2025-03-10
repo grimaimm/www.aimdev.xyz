@@ -42,7 +42,7 @@
     </p>
 
   ```bash
-  git clone https://github.com/grimaimm/unforaimcode.com.git
+  git clone https://github.com/grymaimm/unforaimcode.com.git
   ```
 
   </div>

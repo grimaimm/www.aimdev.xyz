@@ -13,7 +13,7 @@ const iconSize = 20;
 export const SOCIAL_MEDIA = [
   {
     title: 'Github',
-    href: 'https://github.com/grimaimm',
+    href: 'https://github.com/grymaimm',
     classIcon:
       'border border-slate-700/30 group-hover:bg-slate-700/30 text-slate-300 hover:text-slate-200',
     icon: <GithubIcon size={iconSize} />,
